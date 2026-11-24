@@ -9,3 +9,5 @@ git clone blah blah
 baaaa, voila
 
 the motive of this repo is to be creative and do random shit to learn git haha
+
+i wanted to change this a bit more so i put this line ahha
